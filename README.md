@@ -11,8 +11,8 @@ A **cyberpunk-styled** audio converter that can convert any audio file to any fo
 
 ## 🖼️ Screenshot
 
-![Ghost Kitty A<img width="1785" height="1183" alt="screenshot" src="https://github.com/user-attachments/assets/c55b7d0f-0b63-4b04-a231-0d8d1ddef625" />
-udio Converter - Cyberpunk Red Theme](screenshot.png)
+<img width="1785" height="1183" alt="screenshot" src="https://github.com/user-attachments/assets/cd3b6525-6d2f-4305-916f-dc883b7a11b1" />
+
 
 *Ghost Kitty Audio Converter running the Cyberpunk Red theme - showcasing the electronic interface with neon styling, unlimited theme system, and professional audio conversion capabilities.*
 
