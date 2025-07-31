@@ -1,0 +1,382 @@
+2025-07-30 18:13:57,599 - WARNING - FFmpeg not found. Please install FFmpeg for audio conversion.
+2025-07-30 18:19:27,521 - WARNING - FFmpeg not found. Please install FFmpeg for audio conversion.
+2025-07-30 18:27:11,886 - WARNING - FFmpeg not found. Please install FFmpeg for audio conversion.
+2025-07-30 18:27:31,469 - WARNING - FFmpeg not found. Please install FFmpeg for audio conversion.
+2025-07-30 18:28:04,951 - WARNING - FFmpeg not found. Please install FFmpeg for audio conversion.
+2025-07-30 18:28:22,345 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,359 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,366 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,370 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,383 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,392 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,400 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,409 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,418 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,426 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,435 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,443 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,452 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,459 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,470 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,480 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,488 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,498 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,508 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,518 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,529 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,535 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,548 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,558 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,568 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,574 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,585 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,595 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,606 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,615 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,626 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,637 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,648 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,657 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,668 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,675 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,688 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,696 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,708 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,720 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,729 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,739 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,751 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,761 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,772 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,781 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,790 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,803 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,815 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,826 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,839 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,848 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,860 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,872 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,878 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,894 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,907 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,918 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,926 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,937 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,952 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,964 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,971 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,986 - ERROR - FFmpeg not available
+2025-07-30 18:28:22,997 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,008 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,018 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,029 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,041 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,052 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,063 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,075 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,086 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,096 - ERROR - FFmpeg not available
+2025-07-30 18:28:23,108 - ERROR - FFmpeg not available
+2025-07-30 18:35:41,090 - INFO - Found FFmpeg at: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe
+2025-07-30 18:35:59,543 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\1901 Ghost Kitty RMX.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\1901 Ghost Kitty RMX.mp3
+2025-07-30 18:35:59,543 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\1901 Ghost Kitty RMX.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\1901 Ghost Kitty RMX.mp3
+2025-07-30 18:36:01,300 - INFO - Successfully converted: 1901 Ghost Kitty RMX.wav
+2025-07-30 18:36:01,300 - INFO - Output file size: 4404987 bytes
+2025-07-30 18:36:01,324 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\3A1B.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\3A1B.mp3
+2025-07-30 18:36:01,325 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\3A1B.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\3A1B.mp3
+2025-07-30 18:36:03,129 - INFO - Successfully converted: 3A1B.wav
+2025-07-30 18:36:03,129 - INFO - Output file size: 5887499 bytes
+2025-07-30 18:36:03,139 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\4 FOR 3 .wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\4 FOR 3 .mp3
+2025-07-30 18:36:03,139 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\4 FOR 3 .wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\4 FOR 3 .mp3
+2025-07-30 18:36:04,541 - INFO - Successfully converted: 4 FOR 3 .wav
+2025-07-30 18:36:04,541 - INFO - Output file size: 4385967 bytes
+2025-07-30 18:36:04,549 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\789 .wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\789 .mp3
+2025-07-30 18:36:04,549 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\789 .wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\789 .mp3
+2025-07-30 18:36:06,034 - INFO - Successfully converted: 789 .wav
+2025-07-30 18:36:06,034 - INFO - Output file size: 4708739 bytes
+2025-07-30 18:36:06,043 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\789(EP VERSION).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\789(EP VERSION).mp3
+2025-07-30 18:36:06,043 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\789(EP VERSION).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\789(EP VERSION).mp3
+2025-07-30 18:36:07,463 - INFO - Successfully converted: 789(EP VERSION).wav
+2025-07-30 18:36:07,463 - INFO - Output file size: 4592854 bytes
+2025-07-30 18:36:07,472 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\A VIEW OF ANDROMEDA.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\A VIEW OF ANDROMEDA.mp3
+2025-07-30 18:36:07,472 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\A VIEW OF ANDROMEDA.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\A VIEW OF ANDROMEDA.mp3
+2025-07-30 18:36:08,567 - INFO - Successfully converted: A VIEW OF ANDROMEDA.wav
+2025-07-30 18:36:08,567 - INFO - Output file size: 3449306 bytes
+2025-07-30 18:36:08,576 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\AHEART3.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\AHEART3.mp3
+2025-07-30 18:36:08,576 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\AHEART3.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\AHEART3.mp3
+2025-07-30 18:36:10,004 - INFO - Successfully converted: AHEART3.wav
+2025-07-30 18:36:10,004 - INFO - Output file size: 4506782 bytes
+2025-07-30 18:36:10,013 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ALL BY MYSELFFF.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ALL BY MYSELFFF.mp3
+2025-07-30 18:36:10,013 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ALL BY MYSELFFF.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ALL BY MYSELFFF.mp3
+2025-07-30 18:36:11,830 - INFO - Successfully converted: ALL BY MYSELFFF.wav
+2025-07-30 18:36:11,830 - INFO - Output file size: 5767870 bytes
+2025-07-30 18:36:11,839 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\apixelatedheart.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\apixelatedheart.mp3
+2025-07-30 18:36:11,839 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\apixelatedheart.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\apixelatedheart.mp3
+2025-07-30 18:36:14,364 - INFO - Successfully converted: apixelatedheart.wav
+2025-07-30 18:36:14,364 - INFO - Output file size: 8517164 bytes
+2025-07-30 18:36:14,372 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\APPLES.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\APPLES.mp3
+2025-07-30 18:36:14,372 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\APPLES.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\APPLES.mp3
+2025-07-30 18:36:15,708 - INFO - Successfully converted: APPLES.wav
+2025-07-30 18:36:15,708 - INFO - Output file size: 4260541 bytes
+2025-07-30 18:36:15,717 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ASDF.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ASDF.mp3
+2025-07-30 18:36:15,717 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ASDF.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ASDF.mp3
+2025-07-30 18:36:16,717 - INFO - Successfully converted: ASDF.wav
+2025-07-30 18:36:16,717 - INFO - Output file size: 3127475 bytes
+2025-07-30 18:36:16,726 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ASHNIKKO-STUPID (GXK3EDIT).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ASHNIKKO-STUPID (GXK3EDIT).mp3
+2025-07-30 18:36:16,726 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ASHNIKKO-STUPID (GXK3EDIT).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ASHNIKKO-STUPID (GXK3EDIT).mp3
+2025-07-30 18:36:18,340 - INFO - Successfully converted: ASHNIKKO-STUPID (GXK3EDIT).wav
+2025-07-30 18:36:18,340 - INFO - Output file size: 5015361 bytes
+2025-07-30 18:36:18,347 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\Awake Asleep (EP VERSION).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\Awake Asleep (EP VERSION).mp3
+2025-07-30 18:36:18,348 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\Awake Asleep (EP VERSION).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\Awake Asleep (EP VERSION).mp3
+2025-07-30 18:36:20,844 - INFO - Successfully converted: Awake Asleep (EP VERSION).wav
+2025-07-30 18:36:20,845 - INFO - Output file size: 7816256 bytes
+2025-07-30 18:36:20,854 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\AWAKE ASLEEP.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\AWAKE ASLEEP.mp3
+2025-07-30 18:36:20,855 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\AWAKE ASLEEP.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\AWAKE ASLEEP.mp3
+2025-07-30 18:36:23,406 - INFO - Successfully converted: AWAKE ASLEEP.wav
+2025-07-30 18:36:23,406 - INFO - Output file size: 7896403 bytes
+2025-07-30 18:36:23,411 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\B MINE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\B MINE.mp3
+2025-07-30 18:36:23,411 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\B MINE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\B MINE.mp3
+2025-07-30 18:36:25,970 - INFO - Successfully converted: B MINE.wav
+2025-07-30 18:36:25,970 - INFO - Output file size: 8085853 bytes
+2025-07-30 18:36:25,979 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\BAD DREAM.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\BAD DREAM.mp3
+2025-07-30 18:36:25,979 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\BAD DREAM.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\BAD DREAM.mp3
+2025-07-30 18:36:28,287 - INFO - Successfully converted: BAD DREAM.wav
+2025-07-30 18:36:28,287 - INFO - Output file size: 7387504 bytes
+2025-07-30 18:36:28,297 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\BLUE GHOSTKITTY EDIT XTRABITCRUSH.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\BLUE GHOSTKITTY EDIT XTRABITCRUSH.mp3
+2025-07-30 18:36:28,297 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\BLUE GHOSTKITTY EDIT XTRABITCRUSH.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\BLUE GHOSTKITTY EDIT XTRABITCRUSH.mp3
+2025-07-30 18:36:29,490 - INFO - Successfully converted: BLUE GHOSTKITTY EDIT XTRABITCRUSH.wav
+2025-07-30 18:36:29,492 - INFO - Output file size: 3507880 bytes
+2025-07-30 18:36:29,500 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\BLUE GHOSTKITTY EDIT.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\BLUE GHOSTKITTY EDIT.mp3
+2025-07-30 18:36:29,501 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\BLUE GHOSTKITTY EDIT.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\BLUE GHOSTKITTY EDIT.mp3
+2025-07-30 18:36:30,717 - INFO - Successfully converted: BLUE GHOSTKITTY EDIT.wav
+2025-07-30 18:36:30,717 - INFO - Output file size: 3651819 bytes
+2025-07-30 18:36:30,726 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\BLUEBERRY.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\BLUEBERRY.mp3
+2025-07-30 18:36:30,726 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\BLUEBERRY.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\BLUEBERRY.mp3
+2025-07-30 18:36:32,066 - INFO - Successfully converted: BLUEBERRY.wav
+2025-07-30 18:36:32,067 - INFO - Output file size: 4291504 bytes
+2025-07-30 18:36:32,076 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\BMINE1.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\BMINE1.mp3
+2025-07-30 18:36:32,077 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\BMINE1.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\BMINE1.mp3
+2025-07-30 18:36:34,609 - INFO - Successfully converted: BMINE1.wav
+2025-07-30 18:36:34,609 - INFO - Output file size: 8049133 bytes
+2025-07-30 18:36:34,618 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\BROKEN NEBULA.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\BROKEN NEBULA.mp3
+2025-07-30 18:36:34,619 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\BROKEN NEBULA.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\BROKEN NEBULA.mp3
+2025-07-30 18:36:36,249 - INFO - Successfully converted: BROKEN NEBULA.wav
+2025-07-30 18:36:36,250 - INFO - Output file size: 5494532 bytes
+2025-07-30 18:36:36,260 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\CIRCUITRY DREAMS .wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\CIRCUITRY DREAMS .mp3
+2025-07-30 18:36:36,260 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\CIRCUITRY DREAMS .wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\CIRCUITRY DREAMS .mp3
+2025-07-30 18:36:38,150 - INFO - Successfully converted: CIRCUITRY DREAMS .wav
+2025-07-30 18:36:38,150 - INFO - Output file size: 6267720 bytes
+2025-07-30 18:36:38,160 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\COFFEE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\COFFEE.mp3
+2025-07-30 18:36:38,160 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\COFFEE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\COFFEE.mp3
+2025-07-30 18:36:39,791 - INFO - Successfully converted: COFFEE.wav
+2025-07-30 18:36:39,792 - INFO - Output file size: 5132557 bytes
+2025-07-30 18:36:39,800 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\D9A2K1.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\D9A2K1.mp3
+2025-07-30 18:36:39,802 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\D9A2K1.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\D9A2K1.mp3
+2025-07-30 18:36:41,000 - INFO - Successfully converted: D9A2K1.wav
+2025-07-30 18:36:41,000 - INFO - Output file size: 3903788 bytes
+2025-07-30 18:36:41,012 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\DANCE (EP VERSION).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\DANCE (EP VERSION).mp3
+2025-07-30 18:36:41,012 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\DANCE (EP VERSION).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\DANCE (EP VERSION).mp3
+2025-07-30 18:36:43,016 - INFO - Successfully converted: DANCE (EP VERSION).wav
+2025-07-30 18:36:43,016 - INFO - Output file size: 6645745 bytes
+2025-07-30 18:36:43,027 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\DANCE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\DANCE.mp3
+2025-07-30 18:36:43,027 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\DANCE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\DANCE.mp3
+2025-07-30 18:36:45,140 - INFO - Successfully converted: DANCE.wav
+2025-07-30 18:36:45,140 - INFO - Output file size: 6828372 bytes
+2025-07-30 18:36:45,151 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\DIGITAL BLOOM 2.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\DIGITAL BLOOM 2.mp3
+2025-07-30 18:36:45,151 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\DIGITAL BLOOM 2.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\DIGITAL BLOOM 2.mp3
+2025-07-30 18:36:46,724 - INFO - Successfully converted: DIGITAL BLOOM 2.wav
+2025-07-30 18:36:46,724 - INFO - Output file size: 5215030 bytes
+2025-07-30 18:36:46,731 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\DIGITAL BLOOM.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\DIGITAL BLOOM.mp3
+2025-07-30 18:36:46,731 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\DIGITAL BLOOM.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\DIGITAL BLOOM.mp3
+2025-07-30 18:36:48,329 - INFO - Successfully converted: DIGITAL BLOOM.wav
+2025-07-30 18:36:48,329 - INFO - Output file size: 5164148 bytes
+2025-07-30 18:36:48,338 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\DISCOLINES - BABY GIRL (GXK3 EDIT).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\DISCOLINES - BABY GIRL (GXK3 EDIT).mp3
+2025-07-30 18:36:48,338 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\DISCOLINES - BABY GIRL (GXK3 EDIT).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\DISCOLINES - BABY GIRL (GXK3 EDIT).mp3
+2025-07-30 18:36:49,677 - INFO - Successfully converted: DISCOLINES - BABY GIRL (GXK3 EDIT).wav
+2025-07-30 18:36:49,677 - INFO - Output file size: 4273001 bytes
+2025-07-30 18:36:49,686 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\EEE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\EEE.mp3
+2025-07-30 18:36:49,686 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\EEE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\EEE.mp3
+2025-07-30 18:36:50,801 - INFO - Successfully converted: EEE.wav
+2025-07-30 18:36:50,801 - INFO - Output file size: 3425002 bytes
+2025-07-30 18:36:50,810 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ELECTRIC INDIGO .wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ELECTRIC INDIGO .mp3
+2025-07-30 18:36:50,810 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ELECTRIC INDIGO .wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ELECTRIC INDIGO .mp3
+2025-07-30 18:36:52,779 - INFO - Successfully converted: ELECTRIC INDIGO .wav
+2025-07-30 18:36:52,780 - INFO - Output file size: 6221687 bytes
+2025-07-30 18:36:52,789 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKE LOVE(EP VERSION).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKE LOVE(EP VERSION).mp3
+2025-07-30 18:36:52,790 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKE LOVE(EP VERSION).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKE LOVE(EP VERSION).mp3
+2025-07-30 18:36:54,630 - INFO - Successfully converted: FAKE LOVE(EP VERSION).wav
+2025-07-30 18:36:54,630 - INFO - Output file size: 5797468 bytes
+2025-07-30 18:36:54,639 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKE LOVE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKE LOVE.mp3
+2025-07-30 18:36:54,639 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKE LOVE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKE LOVE.mp3
+2025-07-30 18:36:56,484 - INFO - Successfully converted: FAKE LOVE.wav
+2025-07-30 18:36:56,484 - INFO - Output file size: 5857120 bytes
+2025-07-30 18:36:56,494 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKELOVEE(audius).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKELOVEE(audius).mp3
+2025-07-30 18:36:56,495 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKELOVEE(audius).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKELOVEE(audius).mp3
+2025-07-30 18:36:58,369 - INFO - Successfully converted: FAKELOVEE(audius).wav
+2025-07-30 18:36:58,369 - INFO - Output file size: 5888280 bytes
+2025-07-30 18:36:58,380 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKELOVEE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKELOVEE.mp3
+2025-07-30 18:36:58,381 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\FAKELOVEE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\FAKELOVEE.mp3
+2025-07-30 18:37:00,240 - INFO - Successfully converted: FAKELOVEE.wav
+2025-07-30 18:37:00,242 - INFO - Output file size: 5904304 bytes
+2025-07-30 18:37:00,252 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\FEIN - HATSUNE MIKU (GKREWORK).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\FEIN - HATSUNE MIKU (GKREWORK).mp3
+2025-07-30 18:37:00,252 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\FEIN - HATSUNE MIKU (GKREWORK).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\FEIN - HATSUNE MIKU (GKREWORK).mp3
+2025-07-30 18:37:01,642 - INFO - Successfully converted: FEIN - HATSUNE MIKU (GKREWORK).wav
+2025-07-30 18:37:01,643 - INFO - Output file size: 4351837 bytes
+2025-07-30 18:37:01,652 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\FEIN(HATSUNE MIKU).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\FEIN(HATSUNE MIKU).mp3
+2025-07-30 18:37:01,652 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\FEIN(HATSUNE MIKU).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\FEIN(HATSUNE MIKU).mp3
+2025-07-30 18:37:03,033 - INFO - Successfully converted: FEIN(HATSUNE MIKU).wav
+2025-07-30 18:37:03,033 - INFO - Output file size: 4351825 bytes
+2025-07-30 18:37:03,045 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\HOME - RESONANCE (GKREWORK).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\HOME - RESONANCE (GKREWORK).mp3
+2025-07-30 18:37:03,045 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\HOME - RESONANCE (GKREWORK).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\HOME - RESONANCE (GKREWORK).mp3
+2025-07-30 18:37:04,071 - INFO - Successfully converted: HOME - RESONANCE (GKREWORK).wav
+2025-07-30 18:37:04,071 - INFO - Output file size: 3347554 bytes
+2025-07-30 18:37:04,082 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\HUNGRY HEART.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\HUNGRY HEART.mp3
+2025-07-30 18:37:04,082 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\HUNGRY HEART.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\HUNGRY HEART.mp3
+2025-07-30 18:37:05,165 - INFO - Successfully converted: HUNGRY HEART.wav
+2025-07-30 18:37:05,165 - INFO - Output file size: 3413587 bytes
+2025-07-30 18:37:05,175 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\I SOMETIMES.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\I SOMETIMES.mp3
+2025-07-30 18:37:05,175 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\I SOMETIMES.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\I SOMETIMES.mp3
+2025-07-30 18:37:07,280 - INFO - Successfully converted: I SOMETIMES.wav
+2025-07-30 18:37:07,280 - INFO - Output file size: 6642834 bytes
+2025-07-30 18:37:07,289 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\IHEARTYOU.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\IHEARTYOU.mp3
+2025-07-30 18:37:07,289 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\IHEARTYOU.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\IHEARTYOU.mp3
+2025-07-30 18:37:09,500 - INFO - Successfully converted: IHEARTYOU.wav
+2025-07-30 18:37:09,501 - INFO - Output file size: 7135696 bytes
+2025-07-30 18:37:09,510 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ILL MAGNETIC (GHOSTKITTY EDIT).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ILL MAGNETIC (GHOSTKITTY EDIT).mp3
+2025-07-30 18:37:09,510 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ILL MAGNETIC (GHOSTKITTY EDIT).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ILL MAGNETIC (GHOSTKITTY EDIT).mp3
+2025-07-30 18:37:11,244 - INFO - Successfully converted: ILL MAGNETIC (GHOSTKITTY EDIT).wav
+2025-07-30 18:37:11,244 - INFO - Output file size: 5542405 bytes
+2025-07-30 18:37:11,254 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\iSometimes.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\iSometimes.mp3
+2025-07-30 18:37:11,254 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\iSometimes.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\iSometimes.mp3
+2025-07-30 18:37:13,328 - INFO - Successfully converted: iSometimes.wav
+2025-07-30 18:37:13,329 - INFO - Output file size: 6590417 bytes
+2025-07-30 18:37:13,339 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\LIKE THAT.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\LIKE THAT.mp3
+2025-07-30 18:37:13,339 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\LIKE THAT.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\LIKE THAT.mp3
+2025-07-30 18:37:15,898 - INFO - Successfully converted: LIKE THAT.wav
+2025-07-30 18:37:15,898 - INFO - Output file size: 8113216 bytes
+2025-07-30 18:37:15,909 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\LIKE THAT1.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\LIKE THAT1.mp3
+2025-07-30 18:37:15,909 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\LIKE THAT1.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\LIKE THAT1.mp3
+2025-07-30 18:37:18,403 - INFO - Successfully converted: LIKE THAT1.wav
+2025-07-30 18:37:18,403 - INFO - Output file size: 8014433 bytes
+2025-07-30 18:37:18,413 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\LOVEFOOL LOVESICK GHOSTKITTY GLITCHED EDIT.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\LOVEFOOL LOVESICK GHOSTKITTY GLITCHED EDIT.mp3
+2025-07-30 18:37:18,413 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\LOVEFOOL LOVESICK GHOSTKITTY GLITCHED EDIT.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\LOVEFOOL LOVESICK GHOSTKITTY GLITCHED EDIT.mp3
+2025-07-30 18:37:19,516 - INFO - Successfully converted: LOVEFOOL LOVESICK GHOSTKITTY GLITCHED EDIT.wav
+2025-07-30 18:37:19,516 - INFO - Output file size: 3357745 bytes
+2025-07-30 18:37:19,526 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\MELLOWBLUE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\MELLOWBLUE.mp3
+2025-07-30 18:37:19,527 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\MELLOWBLUE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\MELLOWBLUE.mp3
+2025-07-30 18:37:21,056 - INFO - Successfully converted: MELLOWBLUE.wav
+2025-07-30 18:37:21,056 - INFO - Output file size: 4928444 bytes
+2025-07-30 18:37:21,066 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\MILK.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\MILK.mp3
+2025-07-30 18:37:21,066 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\MILK.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\MILK.mp3
+2025-07-30 18:37:21,702 - INFO - Successfully converted: MILK.wav
+2025-07-30 18:37:21,703 - INFO - Output file size: 1972283 bytes
+2025-07-30 18:37:21,713 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\Milky Chance - Synchronize (GHOSTKITTY Remix).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\Milky Chance - Synchronize (GHOSTKITTY Remix).mp3
+2025-07-30 18:37:21,713 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\Milky Chance - Synchronize (GHOSTKITTY Remix).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\Milky Chance - Synchronize (GHOSTKITTY Remix).mp3
+2025-07-30 18:37:23,561 - INFO - Successfully converted: Milky Chance - Synchronize (GHOSTKITTY Remix).wav
+2025-07-30 18:37:23,561 - INFO - Output file size: 5815468 bytes
+2025-07-30 18:37:23,572 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\MILKYCHANCE - SYNCHRONIZE (GXK3ERMX).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\MILKYCHANCE - SYNCHRONIZE (GXK3ERMX).mp3
+2025-07-30 18:37:23,572 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\MILKYCHANCE - SYNCHRONIZE (GXK3ERMX).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\MILKYCHANCE - SYNCHRONIZE (GXK3ERMX).mp3
+2025-07-30 18:37:25,439 - INFO - Successfully converted: MILKYCHANCE - SYNCHRONIZE (GXK3ERMX).wav
+2025-07-30 18:37:25,440 - INFO - Output file size: 5815459 bytes
+2025-07-30 18:37:25,451 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\MISSED.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\MISSED.mp3
+2025-07-30 18:37:25,451 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\MISSED.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\MISSED.mp3
+2025-07-30 18:37:27,042 - INFO - Successfully converted: MISSED.wav
+2025-07-30 18:37:27,042 - INFO - Output file size: 5348461 bytes
+2025-07-30 18:37:27,054 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT (EP VERSION).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT (EP VERSION).mp3
+2025-07-30 18:37:27,054 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT (EP VERSION).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT (EP VERSION).mp3
+2025-07-30 18:37:29,104 - INFO - Successfully converted: NIGHT (EP VERSION).wav
+2025-07-30 18:37:29,104 - INFO - Output file size: 6702001 bytes
+2025-07-30 18:37:29,115 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT DANCE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT DANCE.mp3
+2025-07-30 18:37:29,116 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT DANCE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT DANCE.mp3
+2025-07-30 18:37:31,292 - INFO - Successfully converted: NIGHT DANCE.wav
+2025-07-30 18:37:31,292 - INFO - Output file size: 6833442 bytes
+2025-07-30 18:37:31,305 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT FALL.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT FALL.mp3
+2025-07-30 18:37:31,305 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT FALL.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT FALL.mp3
+2025-07-30 18:37:33,774 - INFO - Successfully converted: NIGHT FALL.wav
+2025-07-30 18:37:33,775 - INFO - Output file size: 7953713 bytes
+2025-07-30 18:37:33,792 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT.mp3
+2025-07-30 18:37:33,792 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\NIGHT.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\NIGHT.mp3
+2025-07-30 18:37:35,912 - INFO - Successfully converted: NIGHT.wav
+2025-07-30 18:37:35,913 - INFO - Output file size: 6825348 bytes
+2025-07-30 18:37:35,925 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGE JUICE (EP VERSION).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGE JUICE (EP VERSION).mp3
+2025-07-30 18:37:35,925 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGE JUICE (EP VERSION).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGE JUICE (EP VERSION).mp3
+2025-07-30 18:37:37,418 - INFO - Successfully converted: ORANGE JUICE (EP VERSION).wav
+2025-07-30 18:37:37,418 - INFO - Output file size: 4905248 bytes
+2025-07-30 18:37:37,432 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGE JUICE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGE JUICE.mp3
+2025-07-30 18:37:37,432 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGE JUICE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGE JUICE.mp3
+2025-07-30 18:37:38,890 - INFO - Successfully converted: ORANGE JUICE.wav
+2025-07-30 18:37:38,890 - INFO - Output file size: 4621171 bytes
+2025-07-30 18:37:38,907 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGE.mp3
+2025-07-30 18:37:38,907 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGE.mp3
+2025-07-30 18:37:40,485 - INFO - Successfully converted: ORANGE.wav
+2025-07-30 18:37:40,486 - INFO - Output file size: 4914853 bytes
+2025-07-30 18:37:40,535 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGES.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGES.mp3
+2025-07-30 18:37:40,538 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ORANGES.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ORANGES.mp3
+2025-07-30 18:37:42,629 - INFO - Successfully converted: ORANGES.wav
+2025-07-30 18:37:42,630 - INFO - Output file size: 6477062 bytes
+2025-07-30 18:37:42,683 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\Outside Inside - GHOSTXKITTY3.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\Outside Inside - GHOSTXKITTY3.mp3
+2025-07-30 18:37:42,686 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\Outside Inside - GHOSTXKITTY3.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\Outside Inside - GHOSTXKITTY3.mp3
+2025-07-30 18:37:44,472 - INFO - Successfully converted: Outside Inside - GHOSTXKITTY3.wav
+2025-07-30 18:37:44,473 - INFO - Output file size: 5542869 bytes
+2025-07-30 18:37:44,520 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\PS2ISO.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\PS2ISO.mp3
+2025-07-30 18:37:44,523 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\PS2ISO.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\PS2ISO.mp3
+2025-07-30 18:37:46,089 - INFO - Successfully converted: PS2ISO.wav
+2025-07-30 18:37:46,092 - INFO - Output file size: 4789165 bytes
+2025-07-30 18:37:46,164 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\RESONANCE (GK REWORK).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\RESONANCE (GK REWORK).mp3
+2025-07-30 18:37:46,166 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\RESONANCE (GK REWORK).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\RESONANCE (GK REWORK).mp3
+2025-07-30 18:37:47,201 - INFO - Successfully converted: RESONANCE (GK REWORK).wav
+2025-07-30 18:37:47,203 - INFO - Output file size: 3347548 bytes
+2025-07-30 18:37:47,273 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ROCK THAT BODY (GHOSTKITTY EDIT).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ROCK THAT BODY (GHOSTKITTY EDIT).mp3
+2025-07-30 18:37:47,276 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ROCK THAT BODY (GHOSTKITTY EDIT).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ROCK THAT BODY (GHOSTKITTY EDIT).mp3
+2025-07-30 18:37:48,375 - INFO - Successfully converted: ROCK THAT BODY (GHOSTKITTY EDIT).wav
+2025-07-30 18:37:48,375 - INFO - Output file size: 3499527 bytes
+2025-07-30 18:37:48,413 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\ROLLER DIGITALISM GHOSTKITTY EDIT.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\ROLLER DIGITALISM GHOSTKITTY EDIT.mp3
+2025-07-30 18:37:48,413 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\ROLLER DIGITALISM GHOSTKITTY EDIT.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\ROLLER DIGITALISM GHOSTKITTY EDIT.mp3
+2025-07-30 18:37:50,573 - INFO - Successfully converted: ROLLER DIGITALISM GHOSTKITTY EDIT.wav
+2025-07-30 18:37:50,573 - INFO - Output file size: 6920248 bytes
+2025-07-30 18:37:50,650 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\SEVEN ATE NINE.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\SEVEN ATE NINE.mp3
+2025-07-30 18:37:50,651 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\SEVEN ATE NINE.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\SEVEN ATE NINE.mp3
+2025-07-30 18:37:52,097 - INFO - Successfully converted: SEVEN ATE NINE.wav
+2025-07-30 18:37:52,097 - INFO - Output file size: 4588437 bytes
+2025-07-30 18:37:52,150 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\TOXIC GHOSTKITTY EDIT.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\TOXIC GHOSTKITTY EDIT.mp3
+2025-07-30 18:37:52,150 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\TOXIC GHOSTKITTY EDIT.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\TOXIC GHOSTKITTY EDIT.mp3
+2025-07-30 18:37:53,786 - INFO - Successfully converted: TOXIC GHOSTKITTY EDIT.wav
+2025-07-30 18:37:53,788 - INFO - Output file size: 5081788 bytes
+2025-07-30 18:37:53,850 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\TRIANGULUM II.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\TRIANGULUM II.mp3
+2025-07-30 18:37:53,851 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\TRIANGULUM II.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\TRIANGULUM II.mp3
+2025-07-30 18:37:55,241 - INFO - Successfully converted: TRIANGULUM II.wav
+2025-07-30 18:37:55,242 - INFO - Output file size: 4560404 bytes
+2025-07-30 18:37:55,303 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\VONDUTCH(GXK3 EDIT).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\VONDUTCH(GXK3 EDIT).mp3
+2025-07-30 18:37:55,303 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\VONDUTCH(GXK3 EDIT).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\VONDUTCH(GXK3 EDIT).mp3
+2025-07-30 18:37:56,639 - INFO - Successfully converted: VONDUTCH(GXK3 EDIT).wav
+2025-07-30 18:37:56,640 - INFO - Output file size: 4341146 bytes
+2025-07-30 18:37:56,686 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\WRONG NUMBER.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\WRONG NUMBER.mp3
+2025-07-30 18:37:56,686 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\WRONG NUMBER.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\WRONG NUMBER.mp3
+2025-07-30 18:37:58,653 - INFO - Successfully converted: WRONG NUMBER.wav
+2025-07-30 18:37:58,654 - INFO - Output file size: 6282931 bytes
+2025-07-30 18:37:58,716 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAAAH.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAAAH.mp3
+2025-07-30 18:37:58,717 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAAAH.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAAAH.mp3
+2025-07-30 18:38:00,502 - INFO - Successfully converted: YEAAAH.wav
+2025-07-30 18:38:00,503 - INFO - Output file size: 5635597 bytes
+2025-07-30 18:38:00,548 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAAH.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAAH.mp3
+2025-07-30 18:38:00,550 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAAH.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAAH.mp3
+2025-07-30 18:38:02,401 - INFO - Successfully converted: YEAAH.wav
+2025-07-30 18:38:02,401 - INFO - Output file size: 5758284 bytes
+2025-07-30 18:38:02,470 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAH (EP VERSION).wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAH (EP VERSION).mp3
+2025-07-30 18:38:02,472 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAH (EP VERSION).wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAH (EP VERSION).mp3
+2025-07-30 18:38:04,284 - INFO - Successfully converted: YEAH (EP VERSION).wav
+2025-07-30 18:38:04,285 - INFO - Output file size: 5780184 bytes
+2025-07-30 18:38:04,347 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAH .wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAH .mp3
+2025-07-30 18:38:04,351 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAH .wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAH .mp3
+2025-07-30 18:38:06,202 - INFO - Successfully converted: YEAH .wav
+2025-07-30 18:38:06,202 - INFO - Output file size: 5834412 bytes
+2025-07-30 18:38:06,242 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAH VIP.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAH VIP.mp3
+2025-07-30 18:38:06,242 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\YEAH VIP.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\YEAH VIP.mp3
+2025-07-30 18:38:08,243 - INFO - Successfully converted: YEAH VIP.wav
+2025-07-30 18:38:08,244 - INFO - Output file size: 6444999 bytes
+2025-07-30 18:38:08,296 - INFO - Converting: C:/Users/music2/Desktop/GHOST KITTY WAVS\YES NO YES.wav -> C:\Users\music2\Desktop\GHOSTKITTY MP3S\YES NO YES.mp3
+2025-07-30 18:38:08,297 - INFO - Command: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe -i C:/Users/music2/Desktop/GHOST KITTY WAVS\YES NO YES.wav -b:a 320k -q:a 0 -codec:a libmp3lame -y C:\Users\music2\Desktop\GHOSTKITTY MP3S\YES NO YES.mp3
+2025-07-30 18:38:11,058 - INFO - Successfully converted: YES NO YES.wav
+2025-07-30 18:38:11,059 - INFO - Output file size: 9146417 bytes
+2025-07-30 18:46:03,240 - INFO - Found FFmpeg at: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe

@@ -1,0 +1,27 @@
+👻🎵 GHOST KITTY AUDIO CONVERTER v1.0.0 🎵👻 
+ 
+Release Date: Wed 07/30/2025 
+Platform: Windows (Primary), Cross-platform compatible 
+ 
+📁 Release Contents: 
+- main.py           # Complete self-contained application 
+- launch.bat        # Windows launcher script 
+- README.md         # Full documentation 
+- LICENSE           # MIT License 
+- requirements.txt  # Setup instructions 
+- CHANGELOG.md      # Version history 
+- CONTRIBUTING.md   # Contribution guidelines 
+ 
+🚀 Quick Start: 
+1. Install FFmpeg: winget install FFmpeg 
+2. Run: python main.py 
+3. Enjoy unlimited dynamic themes! 
+ 
+✨ Features: 
+- 🎨 Unlimited dynamic themes with cyberpunk aesthetics 
+- 🎵 Universal audio conversion (MP3, WAV, FLAC, OGG, AAC, M4A, WMA, MP4, AVI) 
+- ⚡ Batch processing with unlimited file support 
+- 🖥️ Electronic GUI with neon styling 
+- 🚀 Self-contained single-file application 
+ 
+Made with 💜 for the audio conversion community 
