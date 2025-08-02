@@ -214,4 +214,4 @@ Ghost Kitty is all about making audio conversion **fun**, **fast**, and **fantas
 
 *Transform your audio, unleash your creativity! 👻🎵*
 
-![Ghost Kitty Footer](https://img.shields.io/badge/POWERED%20BY-GHOST%20KITTY-00ff41?style=for-the-badge&logo=ghost&logoColor=white)
+![The Ghost Kitty Team Footer](https://img.shields.io/badge/POWERED%20BY-GHOST%20KITTY-00ff41?style=for-the-badge&logo=ghost&logoColor=white)
