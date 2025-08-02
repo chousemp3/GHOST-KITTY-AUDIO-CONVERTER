@@ -199,9 +199,9 @@ Alternative (Package Managers):
 - **Slow conversion**: Try lower quality settings or check system resources
 - **GUI not responding**: Ensure Python/Tkinter is properly installed
 
-## 👻 About Ghost Kitty
+## 👻 About Ghost Kitty Audio Converter
 
-Ghost Kitty is all about making audio conversion **fun**, **fast**, and **fantastic**! 
+Ghost Kitty Audio Converter is all about making audio conversion **fun**, **fast**, and **fantastic**! 
 
 - 🎵 **Music Lover Friendly**: Perfect for DJs, producers, and music enthusiasts
 - 🎮 **Gamer Approved**: Convert game audio and music collections
