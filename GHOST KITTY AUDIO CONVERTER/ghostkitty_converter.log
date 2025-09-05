@@ -380,3 +380,4 @@
 2025-07-30 18:38:11,058 - INFO - Successfully converted: YES NO YES.wav
 2025-07-30 18:38:11,059 - INFO - Output file size: 9146417 bytes
 2025-07-30 18:46:03,240 - INFO - Found FFmpeg at: C:\Users\music2\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.1.1-full_build\bin\ffmpeg.exe
+2025-09-04 22:21:14,139 - INFO - Found FFmpeg at: ffmpeg

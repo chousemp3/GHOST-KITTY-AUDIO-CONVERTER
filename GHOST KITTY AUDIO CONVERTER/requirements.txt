@@ -6,11 +6,25 @@
 # - tkinter (included with Python standard library)
 # - FFmpeg (external audio conversion engine)
 
-# ===== NO ADDITIONAL PYTHON PACKAGES REQUIRED! =====
-# This is a completely self-contained application using only:
+# ===== ENHANCED VERSION REQUIREMENTS =====
+# Core enhanced features require these awesome packages:
+
+# Visual enhancements
+Pillow>=9.0.0                 # Image processing for enhanced graphics
+numpy>=1.20.0                 # Numerical operations for audio visualization
+pygame>=2.1.0                 # Audio processing and sound effects
+
+# Advanced GUI features
+tkinterdnd2>=0.3.0            # Drag and drop functionality
+matplotlib>=3.5.0             # Audio waveform visualization (optional)
+librosa>=0.9.0                # Audio analysis and visualization (optional)
+
+# Optional audio metadata editing
+mutagen>=1.45.0               # Audio metadata editing (optional)
+
+# Original lightweight version uses only:
 # - Python standard library (tkinter, subprocess, threading, etc.)
-# - No external pip dependencies
-# - Lightweight and portable design
+# - FFmpeg (external binary)
 
 # ===== FFMPEG INSTALLATION =====
 
